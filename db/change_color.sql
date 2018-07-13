@@ -1,0 +1,1 @@
+update users set color = ${color} where id = 1;
