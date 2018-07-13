@@ -1,0 +1,1 @@
+select users.name, users.color, userinfo.age from users join userinfo on users.name = userinfo.name;
